@@ -1,0 +1,3 @@
+Membuatsebuah branch untuk perubahan kode yang kita buat memberikan kita cara aman untuk mencoba sebuah solusi dan membuat kesalahan tanpa mengancam kerushakan pada keutuhan projek. Jika solusi kita tidak tepat atau bahkan membuat sebuah kesalahan dengan mudah kita dapat mengbapus branch, membuat branch ulang dan memulai kembali dengan solusi yang berasal dari kode kita.
+
+Setiap project dan orang2 menggunakana polanama yang berbeda-beda untuk nama branch mereka masing-masing. Maka itu sebelum membuat sebuah branch pada repo umum (public repo), perhatikan kembali bagaimana kontrobutor yang lain menamai branch mereka atau baca CONTRIBUTING.md file yang berisikan arahan2 tentang kontribusi sebuah kode, bisa jadi dialamnya ada arahan bagaimana menamai sebuah branch.

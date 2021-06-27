@@ -1,0 +1,28 @@
+$ git branch 
+Menampulkan daftar branch
+
+$ git checkout {nama_branch}
+Memilih pointer ke repositor branch tersebut
+
+$ git branch {nama_branch_baru}
+Membuat branch baru, namun kita harus menggunakan 
+```git checkout {nama_branch}``` untuk menggati branch dari main atau branch saat ini
+
+$ git checkout -b {nama_branch_baru}
+Fungsinya sama-sama membuat branch baru, namun dengan fungsi ini kita tidak perlu menggunakan checkout untuk memelih branch baru tersebut.
+
+$ git push --set-upstream origin {nama_branch_bersangkutan}
+Untuk push branch tersebut ke remote
+
+
+
+====Delete=====
+$ git branch -d {nama_branch}
+akan menghapus branch secara lokal namun opsi dari -d hanyak akan menghapus branch jika branch tersebut sudah di pushed dan di merege ke remote branch.
+
+gunaan opsi -D jika kita ingin memaksa menghapus branch tersebut dari lokal walaupun belum di pushed atau di merge
+
+$ delete branch remote 
+git push <remote> --delete <branch> 
+<remote> = biasanya orgin
+<branch> = nama branch yang diinginkan di hapus

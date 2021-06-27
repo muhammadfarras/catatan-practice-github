@@ -1,0 +1,14 @@
+1. Baca README.md, CONTRIBUTING.md dan CODE_OF_CONDUCT.md
+Dalam mengerjakan sebuah projek, baik itu projek kita atau projek orang lain, kita harus sealalu membaca 3 file tersebut untuk membuat kita semakin paham bagaimana cara untuk mengatur projek didalam komputer kita, memberikan kontribusi secara efektif kepada projek, dan berinteraksi dengan kotributor yang lainya.
+
+Contoh dokumen di Github Desktop open source project
+[https://github.com/desktop/desktop]
+
+2. Survey Projek Board
+Jika sebuah prject menggunakan project board, maka lihatlah isi dari projek board tersebut. Didalam project board tersebut colomn yang berisikan tugas2 yang harus dikerjakan serta progres tugas tersebut.
+
+3. Membaca isu
+Pada sebuah project yang aktif, biasanya orang-orang membuat isu baru terhadap project tersebut. Kita dapat melihat daftar dari isu-isu yang dalam project tersebut. secara bawaan isu tersebut diurutkan berdasarkan isu yang baru saja ditambahkan.
+
+4. Mengulas Pull Request 
+Mengulas PRs adalah ide yang bagus sebelum kita bekerja dalam sebuah project, kare PRs memuat informasi mengenai kode baru, kode yang dihapus atau kode yang dirubah yang belum menjadi bagian dari master branch (belum di merge). Dengan membaca ulasan tersebut membantu kita untuk memulai mengerjakan sebuah kode yang oranglain sudah mengerjakan kode untuk masalah yang sama.

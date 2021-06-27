@@ -1,0 +1,3 @@
+Gunakan SSH untuk menge-clone repository di GITHUB. Dengan menggunakan SSH ketika kita ingin push dari local kompter kita tidak perlu untuk memasukan usernma dan password terus.
+
+https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh
