@@ -3,5 +3,5 @@
 - [X] Chapter 3 : Introducing Github Repositories
 - [X] Chapter 4 : Setting Up a Github Repositories
 - [X] Chapter 5 : Creating website with github Repositories
-- [ ] Chapter 6 : Forking Github Repositoris
+- [X] Chapter 6 : Forking Github Repositoris
 - [ ] Chapter 7 : Writing adn Committin Code
