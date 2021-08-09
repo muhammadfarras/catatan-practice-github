@@ -29,8 +29,8 @@ Git ini memerlukan satu parameter wajib dan dua parameter opsional.
 git migrate <new-branch-name> <target-branch> <commit-range>
 ```
 
-* Parameter <new-branch-name> wajib diisi. Branch ini adalah tempat kita ingin memindahkan commits kita, jika kita tidak mengisi kecualian parameter ini saja maka perintah migrasi akan memindahkan semua commits kedalam master branch ke branch ini (nama branch pada parameter ini).
+* Parameter `<new-branch-name>` wajib diisi. Branch ini adalah tempat kita ingin memindahkan commits kita, jika kita tidak mengisi kecualian parameter ini saja maka perintah migrasi akan memindahkan semua commits kedalam master branch ke branch ini (nama branch pada parameter ini).
 
-* <target-branch> opsional. <targetbranch> menginjinkan kita dapat memindahkan commits dari sebuah branch (selain branch master) ke <new-branch-name> (nama branch pada parameter pertama).
+* `<target-branch>` opsional. `<targetbranch>` menginjinkan kita dapat memindahkan commits dari sebuah branch (selain branch master) ke `<new-branch-name>` (nama branch pada parameter pertama).
 
-* <commit-range> opsional. Mengijikan kita untuk dapat menspesifikasi commits yang mana yang ingin dipindahkan. Parameter ini akan sangat berguna jika secara tidak sengaja kita membuat sebuah commits pada branch yang salah, dan kita ingin memindahkan commits tersebut ke <new-branch-name>.
+* `<commit-range>` opsional. Mengijikan kita untuk dapat menspesifikasi commits yang mana yang ingin dipindahkan. Parameter ini akan sangat berguna jika secara tidak sengaja kita membuat sebuah commits pada branch yang salah, dan kita ingin memindahkan commits tersebut ke `<new-branch-name>`.
