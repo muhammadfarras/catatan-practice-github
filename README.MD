@@ -3,7 +3,7 @@
 - [X] Chapter 3 : Introducing Github Repositories
 - [X] Chapter 4 : Setting Up a Github Repositories
 - [X] Chapter 5 : Creating website with github Repositories
-- [X] Chapter 6 : [Forking Github Repositoris](6. Forking Github Repositoris.md)
-- [x] Chapter 7 : [Writing aand Committing Code](7.Writing And Commiting Code.md)
-- [x] Chapter 8 : [Working with Pull Request](8.Working with Pull Request.md) 
-- [ ] Chapter 12 : [Collaborating Outside of GitHub] (12. Collaborating Outside of GitHub.md)
+- [X] Chapter 6 : [Forking Github Repositoris](6.-Forking-Github-Repositoris.md)
+- [x] Chapter 7 : [Writing aand Committing Code](7.Writing-And-Commiting-Code.md)
+- [x] Chapter 8 : [Working with Pull Request](8.Working-with-Pull-Request.md) 
+- [ ] Chapter 12 : [Collaborating Outside of GitHub] (12.-Collaborating-Outside-of-GitHub.md)
